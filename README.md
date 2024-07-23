@@ -6,7 +6,7 @@
 
 # Admin Panel
 
-![AddPackageAdminPage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/79c05dd8-45f8-477d-801d-6d1432e042fe)
+
 ![AllPaymentsAdminPage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/de0963bf-3f1b-47c4-ab0f-bbae33371150)
 
 # .ENV
